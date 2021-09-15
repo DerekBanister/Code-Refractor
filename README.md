@@ -1,6 +1,6 @@
-# Project Title
+# Code Refractor
 
-In this project we were tasked with refractoring the existing code for greater accessibility. I added semantic elements to the HTML code and consolidated the CSS code.
+In this project we were tasked with refractoring the existing code on a customer's website for greater accessibility. I added semantic elements to the HTML code and consolidated the CSS code.
 
 
 ## Built With
@@ -13,10 +13,10 @@ In this project we were tasked with refractoring the existing code for greater a
 * [See Live Site](https://derekbanister.github.io/Code-Refractor/)
 
 
-## Authors
+## Author:
 
-<h1> Derek Banister <h1>
+ Derek Banister 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/DerekBanister)
-- [Link to LinkedIn](https://www.linkedin.com/in/derek-banister/)
+* [Link to Portfolio Site](#)
+* [Link to Github](https://github.com/DerekBanister)
+* [Link to LinkedIn](https://www.linkedin.com/in/derek-banister/)
