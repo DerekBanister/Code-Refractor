@@ -15,7 +15,7 @@ In this project we were tasked with refractoring the existing code for greater a
 
 ## Authors
 
-* Derek Banister
+<h1> Derek Banister <h1>
 
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/DerekBanister)
