@@ -1,13 +1,22 @@
-# Code-Refractor
+# Project Title
 
-// First Change, fixing search engine optimization button. <a> tag was not defined as "href"
+In this project we were tasked with refractoring the existing code for greater accessibility. I added semantic elements to the HTML code and consolidated the CSS code.
 
-// Deleted Line 35, unecessary line of code that made no changes to the website when deleted
 
-// Gave the <p> tags a class = "font" for easier readability in style.css and so that every paragraph would have the same font and be semantically correct.
+## Built With
 
-//Line 40 in CSS and lines 16, 19, and 22, the tag was just a. I gave all the <a> tags a class that is "color". I am not sure if this is correct as it serves the same function, but figured just the a tag in css was not correct as only the <a> and <p> tags had standalone css with no class.
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-//Lines 11 and 26, changed <div= class="header"> to <section class="header">
+## Deployed Link
 
-// Added Alt tags for each image on line 31, 38, and 45.
+* [See Live Site](https://derekbanister.github.io/Code-Refractor/)
+
+
+## Authors
+
+* Derek Banister
+
+- [Link to Portfolio Site](#)
+- [Link to Github](https://github.com/DerekBanister)
+- [Link to LinkedIn](https://www.linkedin.com/in/derek-banister/)
