@@ -10,7 +10,7 @@ In this project we were tasked with refractoring the existing code on a customer
 
 ## Deployed Link
 
-* [See Live Site](https://derekbanister.github.io/Code-Refractor/)
+<a href= "https://derekbanister.github.io/Code-Refractor" target="blank">See Live Site</a>
 
 
 ## Author:
