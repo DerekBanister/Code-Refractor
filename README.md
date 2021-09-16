@@ -2,6 +2,7 @@
 
 In this project we were tasked with refractoring the existing code on a customer's website for greater accessibility. I added semantic elements to the HTML code and consolidated the CSS code.
 
+![Image of Website](https://i.imgur.com/r2cOfM3.png)
 
 ## Built With
 
@@ -15,7 +16,7 @@ In this project we were tasked with refractoring the existing code on a customer
 
 ## Author:
 
- Derek Banister 
+ **Derek Banister**
 
 * [Link to Portfolio Site](#)
 * [Link to Github](https://github.com/DerekBanister)
